@@ -1,20 +1,20 @@
-# Hi, I'm Nandan Mishra! 👋
+# Nandan Mishra
 
-🎓 B.Tech CSE (AI) | KIET Group of Institutions, Ghaziabad  
-📍 Uttar Pradesh, India  
-📧 nandan2503mishra@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/nandan-mishra-1591b6243)
+B.Tech CSE (AI) | KIET Group of Institutions, Ghaziabad
+Uttar Pradesh, India
 
----
-
-## 👩‍💻 About Me
-
-I'm a final-year AI/ML enthusiast passionate about building intelligent systems.  
-Currently seeking full-time roles in **AI/ML Engineering** and **Data Science**.
+nandan2503mishra@gmail.com | [LinkedIn](https://linkedin.com/in/nandan-mishra-1591b6243)
 
 ---
 
-## 🛠️ Skills
+## About Me
+
+Final-year AI/ML student passionate about building intelligent systems and data-driven solutions.
+Currently seeking full-time roles in AI/ML Engineering and Data Science.
+
+---
+
+## Skills
 
 **Languages:** Python, SQL, Java  
 **ML/DL:** Scikit-learn, TensorFlow, Keras, OpenCV  
@@ -23,27 +23,24 @@ Currently seeking full-time roles in **AI/ML Engineering** and **Data Science**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 [AI Chatbot](https://github.com/Nandan2503/AI_ChatBot)
-Web-based chatbot powered by **Azure OpenAI** | Flask + HTML/CSS/JS
+**[AI ChatBot](https://github.com/Nandan2503/AI_ChatBot)**  
+Web-based chatbot powered by Azure OpenAI GPT-4o | Flask + HTML/CSS/JS
 
-### 🩺 [Anemia Detection](https://github.com/Nandan2503/Anemia-Detection-Using-Deep-Learning)
-Non-invasive anemia detection using **ResNet-50, VGG-16, MobileNet** on conjunctiva images
+**[Anemia Detection](https://github.com/Nandan2503/Anemia-Detection-Using-Deep-Learning)**  
+Non-invasive anemia detection using ResNet-50, VGG-16, and MobileNet on conjunctiva images
 
 ---
 
-## 📜 Certifications
+## Certifications
+
 - AWS Certified Solutions Architect
-- Microsoft Azure AI Training (Rockwell Automation)
+- Microsoft Azure AI Training — Rockwell Automation
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandan2503&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2503&layout=compact&theme=tokyonight)
-
----
-
-⭐ *"Turning data into decisions, one model at a time."*
+![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandan2503&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandan2503&layout=compact&theme=default)
